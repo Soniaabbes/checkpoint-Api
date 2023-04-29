@@ -1,0 +1,6 @@
+.App {
+  text-align: center; 
+}
+.Card{display: flex; flex-wrap: wrap; margin: 60px; padding: 30px; justify-content: space-between;}
+
+.img{width: 1000px; height : 500px}
